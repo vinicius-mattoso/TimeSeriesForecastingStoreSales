@@ -1,6 +1,6 @@
 # Time Series Forecasting: Store Sales
 
-![Time Series Forecasting](/home/vinicius/Repositories/TimeSeriesForecastingStoreSales/images/project_cover.jpg)
+![Time Series Forecasting](images/project_cover.jpg)
 
 This repository aims to serve as a comprehensive compilation of materials for studying Time Series Forecasting, with a focus on Store Sales data. Time series forecasting is a crucial aspect of data analysis and prediction, and this repository provides a curated list of resources to help you grasp the concepts, algorithms, and best practices in this domain.
 
